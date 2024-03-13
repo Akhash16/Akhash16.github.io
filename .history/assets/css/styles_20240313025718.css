@@ -476,7 +476,7 @@ body.light-theme {
 }
 
 .about__subtitle {
-  font-size: var(--tiny-font-size);
+  font-size: var(--small-font-size);
 }
 
 .about__description {

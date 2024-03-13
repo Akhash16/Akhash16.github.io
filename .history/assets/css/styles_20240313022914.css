@@ -927,12 +927,12 @@ body.light-theme {
   }
 
   .home__handle {
-    width: 150px;
-    height: 203px;
+    width: 250px;
+    height: 253px;
   }
 
   .home__img {
-    width: 140px;
+    width: 630px;
   }
 
   .about__info {
@@ -1107,11 +1107,11 @@ body.light-theme {
 
   .home__handle {
     width: 290px;
-    height: 380px;
+    height: 400px;
   }
 
   .home__img {
-    width: 280px;
+    width: 220px;
   }
   .home__social-link {
     padding: 0.4rem;

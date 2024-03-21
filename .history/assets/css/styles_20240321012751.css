@@ -115,8 +115,9 @@ img {
   font-size: 1.5rem;
 }
 .heart-icon {
-  font-size: 1rem;
+  font-size: 1.5rem;
   color: black;
+  transition: 0.4s;
 }
 /*=============== THEME ===============*/
 .change__theme {

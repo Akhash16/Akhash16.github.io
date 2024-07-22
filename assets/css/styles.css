@@ -337,7 +337,7 @@ body.light-theme {
 
 .home__img {
   width: 180px;
-  opacity: 0.85;
+  opacity: 0.8;
 
 }
 
@@ -347,8 +347,8 @@ body.light-theme {
   height: 273px;
   background: linear-gradient(
     180deg,
-    hsla(var(--first-hue), var(--sat), var(--lig), 0.6),
-    hsla(var(--first-hue), var(--sat), var(--lig), 0.3)
+    hsla(var(--first-hue), var(--sat), var(--lig), 0.5),
+    hsla(var(--first-hue), var(--sat), var(--lig), 0.1)
   );
 
   border-radius: 10rem 10rem 1rem 1rem;

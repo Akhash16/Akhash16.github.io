@@ -336,7 +336,7 @@ body.light-theme {
 }
 
 .home__img {
-  width: 180px;
+  width: 550px;
   opacity: 0.8;
 
 }
@@ -347,7 +347,7 @@ body.light-theme {
   height: 273px;
   background: linear-gradient(
     180deg,
-    hsla(var(--first-hue), var(--sat), var(--lig), 0.5),
+    hsla(var(--first-hue), var(--sat), var(--lig), 0.7),
     hsla(var(--first-hue), var(--sat), var(--lig), 0.1)
   );
 
@@ -936,7 +936,7 @@ body.light-theme {
   }
 
   .home__img {
-    width: 140px;
+    width: 550px;
   }
 
   .about__info {
@@ -1115,7 +1115,7 @@ body.light-theme {
   }
 
   .home__img {
-    width: 280px;
+    width: 550px;
   }
   .home__social-link {
     padding: 0.4rem;

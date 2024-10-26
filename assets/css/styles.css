@@ -476,11 +476,11 @@ body.light-theme {
 }
 
 .about__title {
-  font-size: var(--small-font-size);
+  font-size: var(--normal-font-size);
 }
 
 .about__subtitle {
-  font-size: var(--tiny-font-size);
+  font-size: var(--small-font-size);
 }
 
 .about__description {
@@ -676,6 +676,7 @@ body.light-theme {
 }
 
 .work__img {
+  width: 220px;
   border-radius: 1rem;
   margin-bottom: 0.75rem;
 }
@@ -1009,7 +1010,7 @@ body.light-theme {
   }
 
   .skills__content {
-    padding: 4rem 8.8rem;
+    padding: 4rem 4rem;
   }
 
   .skills__title {

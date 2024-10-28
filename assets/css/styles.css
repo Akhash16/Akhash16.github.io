@@ -529,6 +529,13 @@ body.light-theme {
   color: var(--first-color);
 }
 
+.skills__icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 1px; /* Adjust spacing if needed */
+}
+
+
 .skills__name {
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
